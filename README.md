@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=HananNassar2022&count_private=true&theme=midnight-purple=true" alt = "HananNassar2022's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=HananNassar2022&count_private=true&theme=midnight-purple=true" alt = "HananNassar2022's Rating" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=HananNassar2022&count_private=true&theme=midnight-purple&hide_border=true" alt = "HananNassar2022's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=HananNassar2022&count_private=true&theme=midnight-purple&hide_border=true" alt = "HananNassar2022's Rating" width = 400 >
 
 </p>
 
