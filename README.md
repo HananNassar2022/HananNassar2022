@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m Hanan Nassar 
 - 💻 I’m interested in coding
-- 👩🏻‍🎓 I'm third year student at AAUP
-- 🌱 I’m currently focusing on learning html & css
-- ⚡ Fun fact: Sometimes I LOVE to code 24/7
+- 👩🏻‍🎓 I'm CSE student at AAUP
+- 🌱 I’m currently focusing on learning problem solving
+
 
 
 <br />
